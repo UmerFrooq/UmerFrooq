@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UmerFrooq
-- 🌱 I’m currently learning React, Ruby on Rails
+- 🌱 React, Ruby on Rails
 - 💞️ I’m looking to collaborate for open source
 - 📫 umerjutt062@gmail.com
 
